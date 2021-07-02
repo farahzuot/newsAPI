@@ -8,6 +8,7 @@ authors = ["farahzuot <farahz997@eng.hu.edu.jo>"]
 python = "^3.9"
 Django = "^3.2.4"
 djangorestframework = "^3.12.4"
+djangorestframework-simplejwt = "^4.7.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
