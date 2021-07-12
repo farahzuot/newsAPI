@@ -12,6 +12,7 @@ djangorestframework-simplejwt = "^4.7.1"
 psycopg2-binary = "^2.9.1"
 django-environ = "^0.4.5"
 whitenoise = "^5.2.0"
+gunicorn = "^20.1.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
