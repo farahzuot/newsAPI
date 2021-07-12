@@ -4,4 +4,4 @@ build:
 release:
   image: web
 run:
-  web: gunicorn bookshop.wsgi
+  web: gunicorn news.wsgi
